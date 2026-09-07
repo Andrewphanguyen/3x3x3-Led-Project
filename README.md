@@ -37,6 +37,7 @@ The LED moves through each layer:
 4 → 5 → 6
 7 → 8 → 9
 
+
 Then it moves to the next layer.
 
 Pattern 2 — Moving Row
