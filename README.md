@@ -110,11 +110,7 @@ The pattern then repeats.
 
 * Arduino Nano
 * 27 LEDs
-* 3×3×3 LED cube structure
-* 9 negative/control connections
-* 3 layer connections
-* Push button
-* Resistors
+* button
 * Breadboard
 * Jumper wires
 
@@ -243,7 +239,7 @@ For example:
 A new pattern can be added by creating another case:
 
 ```cpp
-  if(currentPattern == 0) {
+  if(currentPattern == 4) {
 
     Pattern4();
 
@@ -266,6 +262,7 @@ The program can randomly select between the available patterns.
 
 ```cpp
 newPattern = random(0, 3);
+currentPattern = newPattern;
 ```
 
 For three patterns the possible values are:
