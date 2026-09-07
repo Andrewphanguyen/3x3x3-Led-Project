@@ -4,9 +4,8 @@ A 3×3×3 LED cube built with an Arduino Nano. The project uses multiplexing to 
 
 ## Demo Videos
 
-[Watch the LED Cube Terminal](https://youtu.be/_bVirGOkEDk)
-
-
 [Watch the LED Cube Demo 1](https://youtube.com/shorts/yR0XCdM4jZ8)
 
 [Watch the LED Cube Demo 2](https://youtube.com/shorts/tc7hGbre6oI)
+
+[Watch the LED Cube Terminal](https://youtu.be/xtZfcDtN4vY)
